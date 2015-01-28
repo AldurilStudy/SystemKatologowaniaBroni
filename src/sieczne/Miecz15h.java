@@ -7,8 +7,8 @@
 package sieczne;
 
 /**
- *
- * @author student
+ * Klasa służy do reprezentowania mieczy póltoraręcznych 
+ * @author Wojtek Bolesta
  */
 public class Miecz15h {
     private String typ;

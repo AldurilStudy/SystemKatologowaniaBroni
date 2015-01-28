@@ -7,8 +7,8 @@
 package sieczne;
 
 /**
- *
- * @author student
+ * Klasa służy do reprezentowania noży
+ * @author Wojtek Bolesta
  */
 public class Noze {
     private String typ;

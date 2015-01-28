@@ -7,8 +7,8 @@
 package sieczne;
 
 /**
- *
- * @author student
+ * Klasa służy do reprezentowania toprów jednoręcznych
+ * @author Wojtek Bolesta
  */
 public class Topor1h {
     private String typ;

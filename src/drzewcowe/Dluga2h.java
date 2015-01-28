@@ -6,8 +6,8 @@
 package drzewcowe;
 
 /**
- *
- * @author student
+ *Klasa służy do reprezentowania  broni drzewcowych dwuręcznych np: pika, kostur, halabarda
+ * @author Paweł Skop
  */
 public class Dluga2h {
     private String typ;

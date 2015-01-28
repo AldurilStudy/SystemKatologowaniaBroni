@@ -7,8 +7,8 @@
 package sieczne;
 
 /**
- *
- * @author student
+ * Klasa służy do reprezentowania mieczy jednoręcznych
+ * @author Wojtek Bolesta
  */
 public class Miecz1h {
     private String typ;

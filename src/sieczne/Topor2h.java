@@ -7,8 +7,8 @@
 package sieczne;
 
 /**
- *
- * @author student
+ * Klasa służy do reprezentowania toporów dwuręcznych
+ * @author Wojtek Bolesta
  */
 public class Topor2h {
     private String typ;
